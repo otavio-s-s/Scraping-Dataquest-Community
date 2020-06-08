@@ -4,9 +4,9 @@
 
 This is an educational project that was developed to scrape the [Dataquest Community](https://community.dataquest.io/) and notify the user via e-mail if new questions were posted  in the Q&A section.
 
-I am making it available here so more users of the platform can take advantage of it.
+I am making the code available here so more users of the platform can take advantage of it.
 
-You can read more about it in [this Towards Data Science article](https://towardsdatascience.com/how-web-scraping-helped-me-going-from-learning-to-teaching-20c1bba7a10b?source=your_stories_page---------------------------).
+You can read more about this project in [this Towards Data Science article](https://towardsdatascience.com/how-web-scraping-helped-me-going-from-learning-to-teaching-20c1bba7a10b?source=your_stories_page---------------------------).
 
 ## Prerequisites
 
