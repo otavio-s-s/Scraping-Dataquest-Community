@@ -2,11 +2,11 @@
 
 # Scraping-Dataquest-Community
 
-This is an educational project that was developed to scrape the [Dataquest Community](https://community.dataquest.io/) and notify the user via e-mail if new queions were poested in the Q&A section.
+This is an educational project that was developed to scrape the [Dataquest Community](https://community.dataquest.io/) and notify the user via e-mail if new questions were posted  in the Q&A section.
 
-I am making it available here so more users of the platform can take advantge of it.
+I am making it available here so more users of the platform can take advantage of it.
 
-You can read more about it in [this Towards Data Science storie](https://towardsdatascience.com/how-web-scraping-helped-me-going-from-learning-to-teaching-20c1bba7a10b?source=your_stories_page---------------------------).
+You can read more about it in [this Towards Data Science article](https://towardsdatascience.com/how-web-scraping-helped-me-going-from-learning-to-teaching-20c1bba7a10b?source=your_stories_page---------------------------).
 
 ## Prerequisites
 
@@ -21,4 +21,4 @@ You can read more about it in [this Towards Data Science storie](https://towards
 
 ## About Dataquest
 
-[Dataquest](https://www.dataquest.io/) is an online learning platform for data science. Their courses cover Python, R, SQL an more. Click on the link to read more.
+[Dataquest](https://www.dataquest.io/) is an online learning platform for data science. Their courses cover Python, R, SQL, and more. Click on the link to read more.
