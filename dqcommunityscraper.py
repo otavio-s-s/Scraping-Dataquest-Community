@@ -31,6 +31,8 @@ while True:
 
     tables = pd.read_html(driver.page_source)
     table = tables[0]
+    
+    driver.quit()
 
     table = table.iloc[1:10, [0, 2, 5]]
     table['time'] = table['Activity'].str[-1]
